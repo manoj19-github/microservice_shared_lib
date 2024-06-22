@@ -1,0 +1,11 @@
+export class EnvVariable {
+	public static NEXT_PUBLIC_GITHUB_CLIENT_ID = `5a330ea78f4a5f96810d`;
+	public static NEXT_PUBLIC_GITHUB_CLIENT_SECRET = `b4dce784c8d9ef89d5cec183b564b63a1e1ac8e3`;
+	public static NEXT_PUBLIC_GOOGLE_CLIENT_ID = `377359257280-2au4b6iroavhvi92gm810k6htnmlnn3u.apps.googleusercontent.com`;
+	public static NEXT_PUBLIC_GOOGLE_CLIENT_SECRET = `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`;
+	public static NEXT_PUBLIC_COUDINARY_CLOUD_NAME = `dplwrlhqo`;
+	public static NEXT_PUBLIC_COUDINARY_API_KEY = `999671642615319`;
+	public static NEXT_PUBLIC_CLOUDINARY_API_SECRET = `Fi3IG2LVmj0OAS69LjMbgpHhD6o`;
+	public static NEXT_PUBLIC_CLOUDINARY_URL = `cloudinary://999671642615319:Fi3IG2LVmj0OAS69LjMbgpHhD6o@dplwrlhqo`;
+	public static NEXT_PUBLIC_GATEWAY_JWT_TOKEN = `c98a8b86b25a4a118232f5895b75e9924a118232f5895b75e992`;
+}
