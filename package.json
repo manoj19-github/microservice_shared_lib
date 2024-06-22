@@ -18,11 +18,11 @@
 		"trailingComma": "es5"
 	},
 	"keywords": [],
-	"name": "https://github.com/manoj19-github/microservice_shared_lib",
+	"name": "@manoj19-github/microservice_shared_lib",
 	"author": "Manoj Santra",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/manoj19-github/microservice_shared_lib.git"
+		"url": "git+https://github.com/manoj19-github/microservice_shared.git"
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com"
